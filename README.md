@@ -1,4 +1,6 @@
 # Google-Clone
+![1](https://user-images.githubusercontent.com/92137648/156303685-1e936923-ec56-4fdd-ad2e-7dd116737f1d.jpeg)
+
 
 This project is for the purpose of practicing HTML and CSS
 
